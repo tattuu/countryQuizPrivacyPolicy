@@ -1,0 +1,2 @@
+# countryQuizPrivacyPolicy
+country quizアプリ用のプライバシーポリシー
